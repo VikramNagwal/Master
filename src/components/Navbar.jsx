@@ -26,7 +26,7 @@ const Navbar = () => {
       </div>
 
       <div className="flex items-center justify-between ml-8">
-      <button className="mx-3 px-4 py-2 border rounded-full text-black">Login</button>
+      <button className="mx-3 px-4 py-2 border rounded-full text-black hidden md:block">Login</button>
       <button className="px-3 py-2 bg-orange-400 text-white border-none rounded-full hover:text-orange-400 hover:bg-slate-100">Get Started</button>
       </div>
       
