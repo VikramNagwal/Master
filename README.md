@@ -1,8 +1,9 @@
-# React + Vite
+# MASTER - Gym Management Software [Frontend]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a frontend website for a gym management software you can contribute to it by adding features to it and practicing your frontend skills.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Steps to contribute**
+1. `git clone <repo link>`
+2. `cd Master` 
+3. `npm install` 
+4. Make your contribution and create a good **pull request**
